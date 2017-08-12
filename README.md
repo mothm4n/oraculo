@@ -1,19 +1,20 @@
-# Oraculo (name TBD)
-System of GameMasters to support his games adding more or less randomness. Based on the idea of Mythic game engine.
+# Oraculo 
+System of GameMasters to support his games adding more or less randomness
 
 ## User stories
 
 1. **Setup the First Scene**
--- Introduce Player Characters
--- Skip the introduce of Player characters
--- Introduce Starting NPC's
--- Introduce Starting Threads
--- Introduce Inicial description of scene (Optional)
+    * Only make question option (like 3.)
+    * Introduce Player Characters
+    * Skip the introduce of Player characters
+    * Introduce Starting NPC's
+    * Introduce Starting Threads
+    * Introduce Inicial description of scene (Optional)
 
 2. **Random Event**
--- Show an "Action" by a "NPC" Involving "Some action" of "topic". 
--- Add new NPC (optional)
--- Add new Thread (optional)
+    * Show an "Action" by a "NPC" Involving "Some action" of "topic". 
+    * Add new NPC (optional)
+    * Add new Thread (optional)
 
 3. **Make a question**
 4. **Roll a dice**
