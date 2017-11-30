@@ -1,5 +1,5 @@
 # Oraculo 
-System of GameMasters to support his games adding more or less randomness
+System of GameMasters to support his games adding more elements of randomness to play.
 
 ## User stories
 
