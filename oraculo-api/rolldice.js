@@ -7,8 +7,6 @@ export async function main(event, context, callback) {
   var diceType = event.pathParameters.dice;
   var result = d.roll(diceType);
 
-  
-  // noteId: event.pathParameters.id
 
   try {
     callback(null, success(result));

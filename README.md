@@ -22,9 +22,47 @@ The idea of the setup is to config the game in that moment with the actual situa
         Introduce the description of the first initial scene
 
 2. **Random Event**
-    * Show an "Action" by a "NPC" Involving "Some action" of "topic". 
-    * Add new NPC (optional)
-    * Add new Thread (optional)
+    Take the information of the actual scene and returns a proposal of possible event with relation of NPC/PC/Threads. For example
+    "There is a event of 'Move toward a thread' related to 'Main quest'" or There is a event of 'Remote event' related to NPC 'Jhon Doe' with the thread 'Side quest 21'. 
+    The idea is focus that event on something, and if is needed we show NPC, PC &/or Threads. (its a list of different focus)
+
+    * **Add the interpretation of the event.**
+    From the situation that the system offers we make a interpretation with the information that we have making a final version. 
+    * **Add new NPC (optional)**
+    Related to this event we can add a new NPC. 
+
+    * **Add new Thread (optional)**
+    Related to this event we can add a new Thread. 
+
+    * **Possible Focus table**
+    1. Remote event
+        1. NPC related
+        2. PC related
+    2. Action
+        1. NPC action
+        2. PC NPC action
+    4. New NPC
+    5. Move toward a...
+        1. Thread
+        2. PC thread
+    6. Move Away a...
+        1. Thread
+        2. PC thread
+    7. Close...
+        1. PC thread
+        2. Thread
+    8. Negative event
+        1. PC related
+        2. NPC related
+        3. PC NPC related
+    9. Positive event
+        1. PC related
+        2. NPC related
+        3. PC NPC related
+    9. Ambiguous event
+        1. PC related
+        2. NPC related
+        3. PC NPC related
 
 3. **Make a question**
     * **Choose Odds**

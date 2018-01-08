@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AnomalyInnovations/serverless-es7.git"
+    "url": "https://github.com/mothm4n/oraculo.git"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
@@ -26,6 +26,7 @@
   "dependencies": {
     "babel-runtime": "^6.26.0",
     "jest": "^21.2.1",
+    "roll-dice": "^0.2.1",
     "source-map-support": "^0.4.18"
   }
 }
