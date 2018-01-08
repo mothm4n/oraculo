@@ -1,0 +1,5 @@
+{
+  "pathParameters": {
+    "dice": "d20"
+  }
+}
