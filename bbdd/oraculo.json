@@ -1,0 +1,33 @@
+{
+  "Campaign": {
+    "userId": "eu-central-1:d480b476-ad80-41a6-863d-18cb853ac697",
+    "campaignId" : "b476-ad80-41a6-863d-18cb853ac69738a6c440-df3a-11e7-9d07-29f120f9a25d",
+    "Title": "Title of Campaign",
+    "Description": "Description of the campaign",
+    "PCs":[
+      {
+        "pcId" :"b476-ad80-41a6-863d-18cb853ac69738a6c440-df3a-11e7-9d07-29f120f9a25d",
+        "Name" : "Jhon Doe"
+      }
+    ],
+    "NPCs":[
+      {
+        "npcId" :"b476-ad80-41a6-863d-18cb853ac69738a6c440-df3a-11e7-9d07-29f120f9a25d",
+        "Name" : "Lucrecia Doe",
+        "Alignment" : "Ally"
+      }
+    ],
+    "Scenes" : [
+      {
+        "sceneId" : "b476-ad80-41a6-863d-18cb853ac69738a6c440-df3a-11e7-9d07-29f120f9a25d",
+        "Name" : "Reception of the prince",
+        "Description" : "Initial description of the scene",
+        "Events" : [
+          {
+            "Type" : "Question"
+          }
+        ]
+      }
+    ]
+  }
+}
