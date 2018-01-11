@@ -7,6 +7,7 @@
     "PCs":[
       {
         "pcId" :"b476-ad80-41a6-863d-18cb853ac69738a6c440-df3a-11e7-9d07-29f120f9a25d",
+        "userId": "eu-central-1:d480b476-ad80-41a6-863d-18cb853ac697",
         "Name" : "Jhon Doe"
       }
     ],
